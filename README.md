@@ -8,7 +8,7 @@ A Banking Console Application built on .NET7 with basic Authentication .Database
 4.Run the build button which is the green play button at the top of the visual studio 2022 IDE.</br>
 5.Have fun with the app!</br>
 
-#Images
+# Images
 
 ![image](https://github.com/ibz11/BankSQL/assets/90426909/38f4c9b1-b23b-41ca-af11-c0bcee662cd7)
 
