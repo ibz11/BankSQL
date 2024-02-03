@@ -2,11 +2,11 @@
 A Banking Console Application built on .NET7 with basic Authentication .Database used is Sqlite.
 
 # How to run the project
-1.Clone the repository
-2.Open the BankSQL.sln project file to open the application.
-3.Install the Microsoft.Data.Sqlite package
-4.Run the build button which is the green play button at the top of the visual studio 2022 IDE.
-5.Have fun with the app!
+1.Clone the repository</br>
+2.Open the BankSQL.sln project file to open the application.</br>
+3.Install the Microsoft.Data.Sqlite package</br>
+4.Run the build button which is the green play button at the top of the visual studio 2022 IDE.</br>
+5.Have fun with the app!</br>
 
 #Images
 
